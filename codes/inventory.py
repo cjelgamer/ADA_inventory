@@ -169,3 +169,21 @@ class Inventario:
                     product.stock = new_stock
                 return product  # Devolver el producto actualizado
         return None  # Si no se encuentra el producto
+    
+
+
+
+    # Función para descargar los productos en un archivo CSV
+    def download_csv(self, file_path='inventario_descargado.csv'):
+        import csv
+        # Ordenar los productos por precio antes de descargar
+        sorted_products = sorted(self.products, key=lambda p: p.price)
+
+        # Escribir los productos en un archivo CSV
+        with open(file_path, mode='w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(["Código", "Nombre", "Precio", "Cantidad", "Fecha Expiración", "Estante"])
+            for product in sorted_products:
+                writer.writerow([product.code, product.name, product.price, product.stock, product.expiry_date, product.shelf])
+        
+        print(f"Inventario descargado en {file_path}")
