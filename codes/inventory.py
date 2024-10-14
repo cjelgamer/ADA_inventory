@@ -89,9 +89,9 @@ class Inventario:
                 shelf_range = self.shelf_ranges[category_code]
 
                 # Asignar estante basado en proximidad de vencimiento
-                if expiry_date_diff <= 20:
+                if expiry_date_diff <= 30:
                     self.assign_to_shelf(product, shelf_range[0])  # Estante más cercano
-                elif 20 < expiry_date_diff <= 50:
+                elif 30 < expiry_date_diff <= 80:
                     self.assign_to_shelf(product, shelf_range[1])  # Estante intermedio
                 else:
                     self.assign_to_shelf(product, shelf_range[2] if len(shelf_range) > 2 else shelf_range[1])

@@ -1,20 +1,20 @@
-code,name,category,price,entry_date,expiry_date,stock,unit
-PPC001,Pan de Molde Blanco BIMBO Extra Grande Bolsa,Panadería, Pastelería y Comidas,10.90,2024-10-12,2025-10-12,750,g
-PPC002,Leche Condensada NESTLÉ Lata,Panadería, Pastelería y Comidas,6.00,2024-10-12,2025-10-12,393,g
-PPC003,Tortillas BIMBO Clásicas Bolsa,Panadería, Pastelería y Comidas,8.90,2024-10-12,2025-10-12,12,un
-PPC004,Gelatina UNIVERSAL Sabor a Fresa Bolsa,Panadería, Pastelería y Comidas,3.99,2024-10-12,2025-10-12,130,g
-PPC005,Tortillas BIMBO Cero Cero Bolsa,Panadería, Pastelería y Comidas,8.90,2024-10-12,2025-10-12,280,g
-PPC006,Pan de Yema LA FLORENCIA Bolsa,Panadería, Pastelería y Comidas,3.50,2024-10-12,2025-10-12,310,g
-PPC007,Pan de Molde BIMBO Integral Bolsa,Panadería, Pastelería y Comidas,10.90,2024-10-12,2025-10-12,750,g
-PPC008,Petit Pan Embolsado,Panadería, Pastelería y Comidas,6.50,2024-10-12,2025-10-12,550,g
-PPC009,Pan de Molde UNIÓN Multisemillas y Avena Bolsa,Panadería, Pastelería y Comidas,10.89,2024-10-12,2025-10-12,540,g
-PPC010,Harina de Trigo Preparada BLANCA FLOR Bolsa,Panadería, Pastelería y Comidas,8.49,2024-10-12,2025-10-12,1,kg
-PPC011,Pan de Molde Blanco LA FLORENCIA Bolsa,Panadería, Pastelería y Comidas,6.90,2024-10-12,2025-10-12,500,g
-PPC012,Pan de Molde Integral BIMBO Vital Multicereal Bolsa,Panadería, Pastelería y Comidas,14.80,2024-10-12,2025-10-12,600,g
-PPC013,Pan de Molde Blanco DON MAMINO sin Corteza Bolsa,Panadería, Pastelería y Comidas,13.50,2024-10-12,2025-10-12,560,g
-PPC014,Tortillas BIMBO Integrales Bolsa,Panadería, Pastelería y Comidas,8.90,2024-10-12,2025-10-12,12,un
-PPC015,Esencia de Vainilla UNIVERSAL Frasco,Panadería, Pastelería y Comidas,2.30,2024-10-12,2025-10-12,100,ml
-PPC016,Harina BELL'S De trigo preparada Bolsa,Panadería, Pastelería y Comidas,6.60,2024-10-12,2025-10-12,1,kg
-PPC017,Pan Baguette Especial LA FLORENCIA,Panadería, Pastelería y Comidas,2.20,2024-10-12,2025-10-12,1,un
-PPC018,Cachito de Mantequilla LA FLORENCIA Bolsa,Panadería, Pastelería y Comidas,4.90,2024-10-12,2025-10-12,220,g
-PPC019,Gelatina UNIVERSAL Sabor a Piña Bolsa,Panadería, Pastelería y Comidas,3.99,2024-10-12,2025-10-12,130,g
+code,name,category,price,entry_date,expiry_date,stock,unit,shelf
+PPC001,Pan de Molde Blanco BIMBO Extra Grande Bolsa,Panadería, Pastelería y Comidas,10.90,2024-10-12,2024-10-26,15,g,0
+PPC002,Leche Condensada NESTLÉ Lata,Panadería, Pastelería y Comidas,6.00,2024-10-12,2024-10-27,14,g,0
+PPC003,Tortillas BIMBO Clásicas Bolsa,Panadería, Pastelería y Comidas,8.90,2024-10-12,2024-10-28,17,un,0
+PPC004,Gelatina UNIVERSAL Sabor a Fresa Bolsa,Panadería, Pastelería y Comidas,3.99,2024-10-12,2024-10-29,13,g,0
+PPC005,Tortillas BIMBO Cero Cero Bolsa,Panadería, Pastelería y Comidas,8.90,2024-10-12,2024-10-30,16,g,0
+PPC006,Pan de Yema LA FLORENCIA Bolsa,Panadería, Pastelería y Comidas,3.50,2024-10-12,2024-11-01,14,g,0
+PPC007,Pan de Molde BIMBO Integral Bolsa,Panadería, Pastelería y Comidas,10.90,2024-10-12,2025-03-05,17,g,0
+PPC008,Petit Pan Embolsado,Panadería, Pastelería y Comidas,6.50,2024-10-12,2025-03-10,15,g,0
+PPC009,Pan de Molde UNIÓN Multisemillas y Avena Bolsa,Panadería, Pastelería y Comidas,10.89,2024-10-12,2025-03-15,16,g,0
+PPC010,Harina de Trigo Preparada BLANCA FLOR Bolsa,Panadería, Pastelería y Comidas,8.49,2024-10-12,2025-03-20,18,kg,0
+PPC011,Pan de Molde Blanco LA FLORENCIA Bolsa,Panadería, Pastelería y Comidas,6.90,2024-10-12,2025-04-01,12,g,0
+PPC012,Pan de Molde Integral BIMBO Vital Multicereal Bolsa,Panadería, Pastelería y Comidas,14.80,2024-10-12,2025-04-10,15,g,0
+PPC013,Pan de Molde Blanco DON MAMINO sin Corteza Bolsa,Panadería, Pastelería y Comidas,13.50,2024-10-12,2025-04-15,19,g,0
+PPC014,Tortillas BIMBO Integrales Bolsa,Panadería, Pastelería y Comidas,8.90,2024-10-12,2025-04-20,13,un,0
+PPC015,Esencia de Vainilla UNIVERSAL Frasco,Panadería, Pastelería y Comidas,2.30,2024-10-12,2025-04-25,17,ml,0
+PPC016,Harina BELL'S De trigo preparada Bolsa,Panadería, Pastelería y Comidas,6.60,2024-10-12,2025-05-01,18,kg,0
+PPC017,Pan Baguette Especial LA FLORENCIA,Panadería, Pastelería y Comidas,2.20,2024-10-12,2025-05-10,11,un,0
+PPC018,Cachito de Mantequilla LA FLORENCIA Bolsa,Panadería, Pastelería y Comidas,4.90,2024-10-12,2025-05-15,14,g,0
+PPC019,Gelatina UNIVERSAL Sabor a Piña Bolsa,Panadería, Pastelería y Comidas,3.99,2024-10-12,2025-05-20,15,g,0

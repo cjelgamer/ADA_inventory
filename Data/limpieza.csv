@@ -1,21 +1,21 @@
-code,name,category,price,entry_date,expiry_date,stock,unit
-LIM001,Bio Bolsa PLAZAVEA Mediana,Limpieza,0.20,2024-10-12,2025-10-12,1,un
-LIM002,Papel Higiénico SUAVE Resistemax Doble Hoja Paquete,Limpieza,21.90,2024-10-12,2025-10-12,40,un
-LIM003,Jabón BOLIVAR Cuidado Total Bolsa,Limpieza,5.70,2024-10-12,2025-10-12,380,g
-LIM004,Papel Toalla PARACAS Premium Rollazo Paquete,Limpieza,9.90,2024-10-12,2025-10-12,4,un
-LIM005,Lejía SAPOLIO Galonera,Limpieza,10.50,2024-10-12,2025-10-12,5,l
-LIM006,Papel Toalla BOREAL Megarollo Paquete,Limpieza,14.90,2024-10-12,2025-10-12,6,un
-LIM007,Papel Toalla BOREAL Megarollo Paquete,Limpieza,5.50,2024-10-12,2025-10-12,2,un
-LIM008,Detergente en Polvo OPAL Ultra Bolsa,Limpieza,25.90,2024-10-12,2025-10-12,2.4,kg
-LIM009,Suavizante SUAVITEL Fresca Primavera,Limpieza,18.60,2024-10-12,2025-10-12,2.3,l
-LIM010,Lavavajillas SAPOLIO Limón Pote,Limpieza,6.00,2024-10-12,2025-10-12,800,g
-LIM011,Lavavajillas SAPOLIO Manzana Pote,Limpieza,6.00,2024-10-12,2025-10-12,800,g
-LIM012,Suavizante BOLIVAR Floral Frasco,Limpieza,23.90,2024-10-12,2025-10-12,2.8,l
-LIM013,Detergente en Polvo MARSELLA Lavanda y Rosas Bolsa,Limpieza,38.90,2024-10-12,2025-10-12,4,kg
-LIM014,Papel Higiénico ELITE Clásico Doble Hoja Paquete,Limpieza,26.90,2024-10-12,2025-10-12,40,un
-LIM015,Papel Higiénico HIGIENOL Mega Rollo Doble Hoja Paquete,Limpieza,44.50,2024-10-12,2025-10-12,24,un
-LIM016,Papel Higiénico SUAVE Cuidado Completo Doble Hoja Paquete,Limpieza,37.50,2024-10-12,2025-10-12,40,un
-LIM017,Papel Toalla NOVA Clásico Mega Rollo Paquete,Limpieza,7.20,2024-10-12,2025-10-12,2,un
-LIM018,Servilletas de Papel ELITE Dobladas en 4 Paquete,Limpieza,4.50,2024-10-12,2025-10-12,100,un
-LIM019,Lejía CLOROX Tradicional Botella,Limpieza,9.90,2024-10-12,2025-10-12,4,kg
-LIM020,Detergente en Polvo BOLIVAR Cuidado Total Floral Bolsa,Limpieza,32.70,2024-10-12,2025-10-12,2.4,kg
+code,name,category,price,entry_date,expiry_date,stock,unit,shelf
+LIM001,Bio Bolsa PLAZAVEA Mediana,Limpieza,0.20,2024-10-12,2024-10-25,16,un,0
+LIM002,Papel Higiénico SUAVE Resistemax Doble Hoja Paquete,Limpieza,21.90,2024-10-12,2024-10-27,14,un,0
+LIM003,Jabón BOLIVAR Cuidado Total Bolsa,Limpieza,5.70,2024-10-12,2024-10-28,18,g,0
+LIM004,Papel Toalla PARACAS Premium Rollazo Paquete,Limpieza,9.90,2024-10-12,2024-10-30,19,un,0
+LIM005,Lejía SAPOLIO Galonera,Limpieza,10.50,2024-10-12,2024-10-29,17,l,0
+LIM006,Papel Toalla BOREAL Megarollo Paquete,Limpieza,14.90,2024-10-12,2024-11-01,13,un,0
+LIM007,Papel Toalla BOREAL Megarollo Paquete,Limpieza,5.50,2024-10-12,2025-03-05,19,un,0
+LIM008,Detergente en Polvo OPAL Ultra Bolsa,Limpieza,25.90,2024-10-12,2025-03-10,14,kg,0
+LIM009,Suavizante SUAVITEL Fresca Primavera,Limpieza,18.60,2024-10-12,2025-03-15,16,l,0
+LIM010,Lavavajillas SAPOLIO Limón Pote,Limpieza,6.00,2024-10-12,2025-03-20,15,g,0
+LIM011,Lavavajillas SAPOLIO Manzana Pote,Limpieza,6.00,2024-10-12,2025-03-25,12,g,0
+LIM012,Suavizante BOLIVAR Floral Frasco,Limpieza,23.90,2024-10-12,2025-04-01,18,l,0
+LIM013,Detergente en Polvo MARSELLA Lavanda y Rosas Bolsa,Limpieza,38.90,2024-10-12,2025-04-10,15,kg,0
+LIM014,Papel Higiénico ELITE Clásico Doble Hoja Paquete,Limpieza,26.90,2024-10-12,2025-04-15,17,un,0
+LIM015,Papel Higiénico HIGIENOL Mega Rollo Doble Hoja Paquete,Limpieza,44.50,2024-10-12,2025-04-20,19,un,0
+LIM016,Papel Higiénico SUAVE Cuidado Completo Doble Hoja Paquete,Limpieza,37.50,2024-10-12,2025-04-25,12,un,0
+LIM017,Papel Toalla NOVA Clásico Mega Rollo Paquete,Limpieza,7.20,2024-10-12,2025-05-01,19,un,0
+LIM018,Servilletas de Papel ELITE Dobladas en 4 Paquete,Limpieza,4.50,2024-10-12,2025-05-10,14,un,0
+LIM019,Lejía CLOROX Tradicional Botella,Limpieza,9.90,2024-10-12,2025-05-15,13,kg,0
+LIM020,Detergente en Polvo BOLIVAR Cuidado Total Floral Bolsa,Limpieza,32.70,2024-10-12,2025-05-20,15,kg,0

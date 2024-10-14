@@ -1,20 +1,20 @@
 code,name,category,price,entry_date,expiry_date,stock,unit,shelf
-ABA001,Aceite de Soya SAO Botella,Abarrotes,6.50,2024-10-12,2025-02-15,900,ml,0
-ABA002,Fideo Spaghetti DON VITTORIO Bolsa,Abarrotes,5.49,2024-10-12,2025-01-30,950,g,0
-ABA003,Azúcar Rubia BELL'S Bolsa,Abarrotes,20.80,2024-10-12,2025-03-20,5000,kg,0
-ABA004,Galletas de Soda SAN JORGE Paquete,Abarrotes,4.40,2024-10-12,2024-10-30,7,un,0
-ABA005,Mayonesa ALACENA Doypack,Abarrotes,19.60,2024-10-12,2025-05-01,850,g,0
-ABA006,Galletas Saladas FIELD Soda Paquete,Abarrotes,3.70,2024-10-12,2024-11-05,6,un,0
-ABA007,Aceite Vegetal PRIMOR Premium Botella,Abarrotes,9.49,2024-10-12,2025-02-25,900,ml,0
-ABA008,Lenteja Bebé BELL'S Bolsa,Abarrotes,5.20,2024-10-12,2026-02-15,500,g,0
-ABA009,Azúcar Rubia BELL'S Bolsa,Abarrotes,8.60,2024-10-12,2025-03-15,2000,kg,0
-ABA010,Arroz Extra Añejo FARAON Naranja Bolsa,Abarrotes,26.49,2024-10-12,2026-04-25,5000,kg,0
-ABA011,Galletas FIELD Vainilla Paquete,Abarrotes,4.70,2024-10-12,2024-11-01,6,un,0
-ABA012,Arroz Extra COSTEÑO Bolsa,Abarrotes,23.90,2024-10-12,2025-03-18,5000,kg,0
-ABA013,Aceite Vegetal BELL'S Botella,Abarrotes,5.20,2024-10-12,2025-07-30,900,ml,0
-ABA014,Trozos de Atún BELL'S en Aceite Lata,Abarrotes,3.90,2024-10-12,2026-02-10,1,un,0
-ABA015,Pack Aceite Vegetal PRIMOR Premium Botella 900ml + Mayonesa ALACENA Doypack,Abarrotes,20.49,2024-10-12,2025-08-20,475,g,0
-ABA016,Galletas SAYON Margarita Bolsa,Abarrotes,4.80,2024-10-12,2025-01-25,43,g,0
-ABA017,Galletas Saladas RITZ sabor Original Paquete,Abarrotes,3.80,2024-10-12,2025-02-10,6,un,0
-ABA018,Filete de Atún en Aceite Vegetal FLORIDA Lata,Abarrotes,6.00,2024-10-12,2026-04-30,140,g,0
-ABA019,Fideos DON VITTORIO Tornillo Bolsa,Abarrotes,2.00,2024-10-12,2026-03-15,225,g,0
+ABA001,Aceite de Soya SAO Botella,Abarrotes,6.50,2024-10-12,2024-10-20,12,ml,0
+ABA002,Fideo Spaghetti DON VITTORIO Bolsa,Abarrotes,5.49,2024-10-12,2024-10-22,14,g,0
+ABA003,Azúcar Rubia BELL'S Bolsa,Abarrotes,20.80,2024-10-12,2024-10-18,18,kg,0
+ABA004,Galletas de Soda SAN JORGE Paquete,Abarrotes,4.40,2024-10-12,2024-10-21,13,un,0
+ABA005,Mayonesa ALACENA Doypack,Abarrotes,19.60,2024-10-12,2024-10-23,16,g,0
+ABA006,Galletas Saladas FIELD Soda Paquete,Abarrotes,3.70,2024-10-12,2024-10-25,11,un,0
+ABA007,Aceite Vegetal PRIMOR Premium Botella,Abarrotes,9.49,2024-10-12,2024-11-25,19,ml,0
+ABA008,Lenteja Bebé BELL'S Bolsa,Abarrotes,5.20,2024-10-12,2024-12-20,15,g,0
+ABA009,Azúcar Rubia BELL'S Bolsa,Abarrotes,8.60,2024-10-12,2025-01-15,14,kg,0
+ABA010,Arroz Extra Añejo FARAON Naranja Bolsa,Abarrotes,26.49,2024-10-12,2024-12-30,12,kg,0
+ABA011,Galletas FIELD Vainilla Paquete,Abarrotes,4.70,2024-10-12,2024-12-05,17,un,0
+ABA012,Arroz Extra COSTEÑO Bolsa,Abarrotes,23.90,2024-10-12,2025-04-20,18,kg,0
+ABA013,Aceite Vegetal BELL'S Botella,Abarrotes,5.20,2024-10-12,2025-06-30,11,ml,0
+ABA014,Trozos de Atún BELL'S en Aceite Lata,Abarrotes,3.90,2024-10-12,2025-05-10,14,un,0
+ABA015,Pack Aceite Vegetal PRIMOR Premium Botella 900ml + Mayonesa ALACENA Doypack,Abarrotes,20.49,2024-10-12,2025-07-20,17,g,0
+ABA016,Galletas SAYON Margarita Bolsa,Abarrotes,4.80,2024-10-12,2025-08-10,12,g,0
+ABA017,Galletas Saladas RITZ sabor Original Paquete,Abarrotes,3.80,2024-10-12,2025-07-25,18,un,0
+ABA018,Filete de Atún en Aceite Vegetal FLORIDA Lata,Abarrotes,6.00,2024-10-12,2025-11-15,19,g,0
+ABA019,Fideos DON VITTORIO Tornillo Bolsa,Abarrotes,2.00,2024-10-12,2025-12-01,14,g,0

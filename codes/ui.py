@@ -111,7 +111,7 @@ class InventoryApp:
 
     # Cargar datos desde CSV
     def load_csv(self):
-        file_path = 'Data/abarrotes.csv'  # Ajusta esto según tu archivo CSV
+        file_path = 'Data/jugueteria.csv'  # Ajusta esto según tu archivo CSV
         self.inventory.load_from_csv(file_path)
         self.display_products()
 
@@ -273,10 +273,10 @@ class InventoryApp:
         if search_algorithm == "binary_search":
             # Ordenar por fecha de expiración antes de realizar la búsqueda binaria
             sorted_products = sorted(self.inventory.products, key=lambda p: p.expiry_date)
-            soon_to_expire, exec_time, memory_peak = binary_search_relocation(sorted_products, days_left=50, key=lambda p: p.expiry_date)
+            soon_to_expire, exec_time, memory_peak = binary_search_relocation(sorted_products, days_left=30, key=lambda p: p.expiry_date)
         else:
             # Usar búsqueda por hash para fechas de expiración
-            soon_to_expire, exec_time, memory_peak = hash_search_relocation(self.inventory.products, days_left=50, key=lambda p: p.expiry_date)
+            soon_to_expire, exec_time, memory_peak = hash_search_relocation(self.inventory.products, days_left=30, key=lambda p: p.expiry_date)
 
         if soon_to_expire:
             self.show_subwindow_report(soon_to_expire, "Productos Próximos a Vencer")
@@ -292,12 +292,12 @@ class InventoryApp:
         if search_algorithm == "binary_search":
             # Ordenar los productos por su cantidad antes de realizar la búsqueda binaria
             sorted_products = sorted(self.inventory.products, key=lambda p: p.stock)
-            low_stock, exec_time, memory_peak = binary_search_relocation(sorted_products, days_left=10, key=lambda p: p.stock)  # Usamos days_left como límite de stock
+            low_stock, exec_time, memory_peak = binary_search_relocation(sorted_products, days_left=12, key=lambda p: p.stock)  # Usamos days_left como límite de stock
         else:
             # Usar búsqueda por hash para encontrar productos con bajo stock
             tracemalloc.start()  # Iniciar seguimiento de memoria
             start_time = time.time()  # Iniciar el temporizador
-            low_stock = [product for product in self.inventory.products if product.stock < 10]  # Filtrar los productos con bajo stock
+            low_stock = [product for product in self.inventory.products if product.stock < 12]  # Filtrar los productos con bajo stock
             end_time = time.time()  # Finalizar el temporizador
             memory_usage = tracemalloc.get_traced_memory()  # Obtener el uso de memoria
             tracemalloc.stop()  # Detener el seguimiento de memoria

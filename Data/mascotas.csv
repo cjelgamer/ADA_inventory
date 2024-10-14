@@ -1,18 +1,18 @@
-code,name,category,price,entry_date,expiry_date,stock,unit
-MAS001,Arena para Gatos BELLS Bolsa,Mascotas,29.90,2024-10-12,2025-10-12,20,kg
-MAS002,Arena para Gatos BELLS Bolsa,Mascotas,16.90,2024-10-12,2025-10-12,10,kg
-MAS003,Comida para Perros BELL'S Adultos Bolsa,Mascotas,99.90,2024-10-12,2025-10-12,25,kg
-MAS004,Comida para Perros RICOCAN Adultos Razas Medianas y Grandes Cordero y Cereales Bolsa,Mascotas,109.00,2024-10-12,2025-10-12,15,kg
-MAS005,Arena para Gatos KLINKAT 100% Natural Bolsa,Mascotas,24.90,2024-10-12,2025-10-12,10,kg
-MAS006,Comida para Gatos CAT CHOW Adulto Esterilizados con pescado Bolsa,Mascotas,103.90,2024-10-12,2025-10-12,8,kg
-MAS007,Comida para Perros RICOCAN Adultos Razas Pequeñas Cordero y Cereales Bolsa,Mascotas,109.00,2024-10-12,2025-10-12,15,kg
-MAS008,Arena para Gatos COOL CAT Bolsa,Mascotas,21.90,2024-10-12,2025-10-12,10,kg
-MAS009,Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa,Mascotas,81.90,2024-10-12,2025-10-12,9,kg
-MAS010,Arena para Gatos KLINKAT 100% Natural Bolsa,Mascotas,54.90,2024-10-12,2025-10-12,20,kg
-MAS011,Comida para perros RICOCAN Adultos todas las razas multisabores Bolsa,Mascotas,109.00,2024-10-12,2025-10-12,15,kg
-MAS012,Comida para Perros MIMASKOT Carne, Cereal y Vegetales Bolsa,Mascotas,139.90,2024-10-12,2025-10-12,22,kg
-MAS013,Arena para Gatos BELLS Bolsa,Mascotas,8.90,2024-10-12,2025-10-12,5,kg
-MAS014,Comida para Perros RICOCAN Cachorros Pequeños Carne y Leche Bolsa,Mascotas,109.00,2024-10-12,2025-10-12,15,kg
-MAS015,Snacks para Perros BELL'S Bolsa,Mascotas,16.90,2024-10-12,2025-10-12,500,g
-MAS016,Comida para Perros RICOCAN Adultos Paté con Carne Lata,Mascotas,5.90,2024-10-12,2025-10-12,330,g
-MAS017,Comida para Gatos RICOCAT Adultos Paté Hígado y Pollo Lata,Mascotas,6.50,2024-10-12,2025-10-12,330,g
+code,name,category,price,entry_date,expiry_date,stock,unit,shelf
+MAS001,Arena para Gatos BELLS Bolsa,Mascotas,29.90,2024-10-12,2024-10-26,18,kg,0
+MAS002,Arena para Gatos BELLS Bolsa,Mascotas,16.90,2024-10-12,2024-10-27,16,kg,0
+MAS003,Comida para Perros BELL'S Adultos Bolsa,Mascotas,99.90,2024-10-12,2024-10-28,19,kg,0
+MAS004,Comida para Perros RICOCAN Adultos Razas Medianas y Grandes Cordero y Cereales Bolsa,Mascotas,109.00,2024-10-12,2024-10-29,15,kg,0
+MAS005,Arena para Gatos KLINKAT 100% Natural Bolsa,Mascotas,24.90,2024-10-12,2024-10-30,14,kg,0
+MAS006,Comida para Gatos CAT CHOW Adulto Esterilizados con pescado Bolsa,Mascotas,103.90,2024-10-12,2024-11-01,12,kg,0
+MAS007,Comida para Perros RICOCAN Adultos Razas Pequeñas Cordero y Cereales Bolsa,Mascotas,109.00,2024-10-12,2025-03-05,16,kg,0
+MAS008,Arena para Gatos COOL CAT Bolsa,Mascotas,21.90,2024-10-12,2025-03-10,15,kg,0
+MAS009,Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa,Mascotas,81.90,2024-10-12,2025-03-15,13,kg,0
+MAS010,Arena para Gatos KLINKAT 100% Natural Bolsa,Mascotas,54.90,2024-10-12,2025-03-20,17,kg,0
+MAS011,Comida para perros RICOCAN Adultos todas las razas multisabores Bolsa,Mascotas,109.00,2024-10-12,2025-04-01,18,kg,0
+MAS012,Comida para Perros MIMASKOT Carne, Cereal y Vegetales Bolsa,Mascotas,139.90,2024-10-12,2025-04-10,19,kg,0
+MAS013,Arena para Gatos BELLS Bolsa,Mascotas,8.90,2024-10-12,2025-04-15,13,kg,0
+MAS014,Comida para Perros RICOCAN Cachorros Pequeños Carne y Leche Bolsa,Mascotas,109.00,2024-10-12,2025-04-20,14,kg,0
+MAS015,Snacks para Perros BELL'S Bolsa,Mascotas,16.90,2024-10-12,2025-04-25,11,g,0
+MAS016,Comida para Perros RICOCAN Adultos Paté con Carne Lata,Mascotas,5.90,2024-10-12,2025-05-01,12,g,0
+MAS017,Comida para Gatos RICOCAT Adultos Paté Hígado y Pollo Lata,Mascotas,6.50,2024-10-12,2025-05-10,13,g,0

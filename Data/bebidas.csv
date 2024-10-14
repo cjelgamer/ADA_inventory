@@ -1,21 +1,21 @@
 code,name,category,price,entry_date,expiry_date,stock,unit,shelf
-BEB001,Agua Mineral SAN MATEO Sin Gas Bidón,Bebidas,8.50,2024-10-12,2024-10-30,7,l,0
-BEB002,Pack Gaseosa COCA COLA sin Azúcar Botella 1.5L + Gaseosa INCA KOLA sin Azúcar Botella,Bebidas,11.90,2024-10-12,2025-02-20,1.5,l,0
-BEB003,Agua de Mesa SAN CARLOS Sin Gas Caja,Bebidas,19.20,2024-10-12,2025-03-25,20,l,0
-BEB004,Agua de Mesa SAN CARLOS sin Gas Botella 500ml Paquete,Bebidas,12.90,2024-10-12,2025-05-05,20,un,0
-BEB005,Gaseosa INCA KOLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2025-01-15,6,un,0
-BEB006,Gaseosa COCA COLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2025-02-05,6,un,0
-BEB007,Gaseosa INCA KOLA + COCA COLA + FANTA Botella 3L Paquete,Bebidas,24.90,2024-10-12,2025-03-10,3,un,0
-BEB008,Gaseosa INCA KOLA Sin Azúcar Botella 1.5L Paquete,Bebidas,11.90,2024-10-12,2025-01-30,2,un,0
-BEB009,Agua Mineral SAN MATEO sin Gas Botella,Bebidas,3.00,2024-10-12,2024-11-15,2.5,l,0
-BEB010,Gaseosa COCA COLA Sabor Original Botella 3L Two Pack,Bebidas,19.90,2024-10-12,2025-04-10,1,un,0
-BEB011,Gaseosa COCA COLA Sin Azúcar 2Pack Botella,Bebidas,11.90,2024-10-12,2025-02-20,1.5,l,0
-BEB012,Gaseosa COCA COLA + INCA KOLA 2Pack Botella,Bebidas,19.90,2024-10-12,2025-03-05,3,l,0
-BEB013,Agua de Mesa SAN LUIS Sin Gas Bidón,Bebidas,7.50,2024-10-12,2024-10-30,7,l,0
-BEB014,Agua SAN LUIS sin Gas Caja,Bebidas,24.50,2024-10-12,2025-01-25,20,l,0
-BEB015,Agua Mineral SAN MATEO sin Gas Botella 600ml Paquete,Bebidas,9.00,2024-10-12,2025-02-15,6,un,0
-BEB016,Agua sin Gas CIELO Caja,Bebidas,23.90,2024-10-12,2025-05-10,20,l,0
-BEB017,Néctar FRUGOS DEL VALLE Sabor a Durazno Caja 235ml Six Pack,Bebidas,7.90,2024-10-12,2025-03-20,1,un,0
-BEB018,Agua sin Gas CIELO Bidón,Bebidas,6.80,2024-10-12,2025-01-30,7,l,0
-BEB019,Agua con Gas SAN LUIS Sabor a Manzana Botella 625ml Paquete,Bebidas,11.00,2024-10-12,2025-02-25,6,un,0
-BEB020,Gaseosa COCA COLA Sabor Original Botella 1L Two Pack,Bebidas,8.30,2024-10-12,2025-03-05,1,un,0
+BEB001,Agua Mineral SAN MATEO Sin Gas Bidón,Bebidas,8.50,2024-10-12,2024-10-20,13,l,0
+BEB002,Pack Gaseosa COCA COLA sin Azúcar Botella 1.5L + Gaseosa INCA KOLA sin Azúcar Botella,Bebidas,11.90,2024-10-12,2024-10-22,12,l,0
+BEB003,Agua de Mesa SAN CARLOS Sin Gas Caja,Bebidas,19.20,2024-10-12,2024-10-18,11,l,0
+BEB004,Agua de Mesa SAN CARLOS sin Gas Botella 500ml Paquete,Bebidas,12.90,2024-10-12,2024-10-25,15,un,0
+BEB005,Gaseosa INCA KOLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2024-10-21,14,un,0
+BEB006,Gaseosa COCA COLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2024-10-19,18,un,0
+BEB007,Gaseosa INCA KOLA + COCA COLA + FANTA Botella 3L Paquete,Bebidas,24.90,2024-10-12,2024-12-30,17,un,0
+BEB008,Gaseosa INCA KOLA Sin Azúcar Botella 1.5L Paquete,Bebidas,11.90,2024-10-12,2024-11-30,10,un,0
+BEB009,Agua Mineral SAN MATEO sin Gas Botella,Bebidas,3.00,2024-10-12,2025-01-25,14,l,0
+BEB010,Gaseosa COCA COLA Sabor Original Botella 3L Two Pack,Bebidas,19.90,2024-10-12,2025-01-15,16,un,0
+BEB011,Gaseosa COCA COLA Sin Azúcar 2Pack Botella,Bebidas,11.90,2024-10-12,2025-02-20,18,l,0
+BEB012,Gaseosa COCA COLA + INCA KOLA 2Pack Botella,Bebidas,19.90,2024-10-12,2025-02-15,15,l,0
+BEB013,Agua de Mesa SAN LUIS Sin Gas Bidón,Bebidas,7.50,2024-10-12,2025-03-10,11,l,0
+BEB014,Agua SAN LUIS sin Gas Caja,Bebidas,24.50,2024-10-12,2025-04-05,16,l,0
+BEB015,Agua Mineral SAN MATEO sin Gas Botella 600ml Paquete,Bebidas,9.00,2024-10-12,2025-04-30,13,un,0
+BEB016,Agua sin Gas CIELO Caja,Bebidas,23.90,2024-10-12,2025-05-10,19,l,0
+BEB017,Néctar FRUGOS DEL VALLE Sabor a Durazno Caja 235ml Six Pack,Bebidas,7.90,2024-10-12,2025-03-15,12,un,0
+BEB018,Agua sin Gas CIELO Bidón,Bebidas,6.80,2024-10-12,2025-05-05,18,l,0
+BEB019,Agua con Gas SAN LUIS Sabor a Manzana Botella 625ml Paquete,Bebidas,11.00,2024-10-12,2025-04-20,14,un,0
+BEB020,Gaseosa COCA COLA Sabor Original Botella 1L Two Pack,Bebidas,8.30,2024-10-12,2025-04-30,15,un,0

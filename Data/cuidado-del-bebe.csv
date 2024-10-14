@@ -1,21 +1,21 @@
-code,name,category,price,entry_date,expiry_date,stock,unit
-BBE001,Toallitas Húmedas HUGGIES Limpieza Efectiva Paquete,Cuidado del Bebé,22.90,2024-10-12,2025-10-12,192,un
-BBE002,Toallitas Húmedas BABYSEC Paquete,Cuidado del Bebé,13.90,2024-10-12,2025-10-12,135,un
-BBE003,Toallitas Humedas HUGGIES One & Done 3 Paquetes de,Cuidado del Bebé,34.90,2024-10-12,2025-10-12,80,un
-BBE004,Toallitas Húmedas Premium BALANZÉ Doypack,Cuidado del Bebé,11.90,2024-10-12,2025-10-12,180,un
-BBE005,Toallitas Húmedas BALANZÉ BABY Clásica Paquete,Cuidado del Bebé,4.90,2024-10-12,2025-10-12,120,un
-BBE006,Pañal BABYSEC Super Premium Talla XXG Paquete,Cuidado del Bebé,55.90,2024-10-12,2025-10-12,58,un
-BBE007,Fórmula Láctea NAN 3 Crecimiento Lata 390g Paquete,Cuidado del Bebé,40.40,2024-10-12,2025-10-12,8,un
-BBE008,Toallitas Húmedas BABYSEC Super Premium Paquete,Cuidado del Bebé,29.90,2024-10-12,2025-10-12,184,un
-BBE009,Toallitas Húmedas BALANZE Baby Clásica Paquete,Cuidado del Bebé,2.90,2024-10-12,2025-10-12,60,un
-BBE010,Toallitas Húmedas para Bebé HUGGIES One & Done Paquete,Cuidado del Bebé,29.90,2024-10-12,2025-10-12,184,un
-BBE011,Pañal HUGGIES Dermacare Talla M Paquete,Cuidado del Bebé,52.90,2024-10-12,2025-10-12,58,un
-BBE012,Toallitas Húmedas BABYSEC Premium Paquete,Cuidado del Bebé,23.00,2024-10-12,2025-10-12,210,un
-BBE013,Pañales para Bebé HUGGIES Active Sec XXXG Paquete,Cuidado del Bebé,58.90,2024-10-12,2025-10-12,70,un
-BBE014,Fórmula Láctea NAN 2 Bebés Lata 390g Paquete,Cuidado del Bebé,47.20,2024-10-12,2025-10-12,8,un
-BBE015,Fórmula Infantil SIMILAC 3 HMO Caja,Cuidado del Bebé,194.30,2024-10-12,2025-10-12,2100,g
-BBE016,Pañales para Bebé HUGGIES Natural Care XXXG Paquete,Cuidado del Bebé,61.90,2024-10-12,2025-10-12,54,un
-BBE017,Toallitas Húmedas para Bebé HUGGIES Manitos y Caritas Bolsa,Cuidado del Bebé,7.50,2024-10-12,2025-10-12,48,un
-BBE018,Pañales para Bebé HUGGIES Natural Care Talla XXG Paquete,Cuidado del Bebé,61.90,2024-10-12,2025-10-12,58,un
-BBE019,Fórmula Infantil SIMILAC Total Comfort Caja,Cuidado del Bebé,275.50,2024-10-12,2025-10-12,1.4,kg
-BBE020,Toallitas Húmedas para Bebé PEQUEÑÍN Aloe Natural Paquete,Cuidado del Bebé,21.90,2024-10-12,2025-10-12,200,un
+code,name,category,price,entry_date,expiry_date,stock,unit,shelf
+BBE001,Toallitas Húmedas HUGGIES Limpieza Efectiva Paquete,Cuidado del Bebé,22.90,2024-10-12,2024-10-25,14,un,0
+BBE002,Toallitas Húmedas BABYSEC Paquete,Cuidado del Bebé,13.90,2024-10-12,2024-10-28,16,un,0
+BBE003,Toallitas Humedas HUGGIES One & Done 3 Paquetes de,Cuidado del Bebé,34.90,2024-10-12,2024-10-27,12,un,0
+BBE004,Toallitas Húmedas Premium BALANZÉ Doypack,Cuidado del Bebé,11.90,2024-10-12,2024-10-29,18,un,0
+BBE005,Toallitas Húmedas BALANZÉ BABY Clásica Paquete,Cuidado del Bebé,4.90,2024-10-12,2024-10-30,15,un,0
+BBE006,Pañal BABYSEC Super Premium Talla XXG Paquete,Cuidado del Bebé,55.90,2024-10-12,2024-11-01,19,un,0
+BBE007,Fórmula Láctea NAN 3 Crecimiento Lata 390g Paquete,Cuidado del Bebé,40.40,2024-10-12,2025-03-05,18,un,0
+BBE008,Toallitas Húmedas BABYSEC Super Premium Paquete,Cuidado del Bebé,29.90,2024-10-12,2025-04-01,15,un,0
+BBE009,Toallitas Húmedas BALANZE Baby Clásica Paquete,Cuidado del Bebé,2.90,2024-10-12,2025-04-10,16,un,0
+BBE010,Toallitas Húmedas para Bebé HUGGIES One & Done Paquete,Cuidado del Bebé,29.90,2024-10-12,2025-03-25,17,un,0
+BBE011,Pañal HUGGIES Dermacare Talla M Paquete,Cuidado del Bebé,52.90,2024-10-12,2025-04-15,11,un,0
+BBE012,Toallitas Húmedas BABYSEC Premium Paquete,Cuidado del Bebé,23.00,2024-10-12,2025-03-30,17,un,0
+BBE013,Pañales para Bebé HUGGIES Active Sec XXXG Paquete,Cuidado del Bebé,58.90,2024-10-12,2025-05-05,18,un,0
+BBE014,Fórmula Láctea NAN 2 Bebés Lata 390g Paquete,Cuidado del Bebé,47.20,2024-10-12,2025-06-10,19,un,0
+BBE015,Fórmula Infantil SIMILAC 3 HMO Caja,Cuidado del Bebé,194.30,2024-10-12,2025-06-25,15,g,0
+BBE016,Pañales para Bebé HUGGIES Natural Care XXXG Paquete,Cuidado del Bebé,61.90,2024-10-12,2025-06-30,18,un,0
+BBE017,Toallitas Húmedas para Bebé HUGGIES Manitos y Caritas Bolsa,Cuidado del Bebé,7.50,2024-10-12,2025-07-05,14,un,0
+BBE018,Pañales para Bebé HUGGIES Natural Care Talla XXG Paquete,Cuidado del Bebé,61.90,2024-10-12,2025-07-10,19,un,0
+BBE019,Fórmula Infantil SIMILAC Total Comfort Caja,Cuidado del Bebé,275.50,2024-10-12,2025-07-20,12,kg,0
+BBE020,Toallitas Húmedas para Bebé PEQUEÑÍN Aloe Natural Paquete,Cuidado del Bebé,21.90,2024-10-12,2025-07-25,18,un,0

@@ -1,17 +1,17 @@
 code,name,category,price,entry_date,expiry_date,stock,unit,shelf
-CAR001,Pollo Entero Fresco con Menudencia,"Carnes, Aves y Pescados",8.70,2024-10-12,2024-10-30,1,un,0
-CAR002,Carne Molida de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",23.80,2024-10-12,2025-01-15,1,un,0
-CAR003,Filete de Pechuga Importado SADIA Bolsa,"Carnes, Aves y Pescados",16.90,2024-10-12,2025-03-05,1,kg,0
-CAR004,Filete de Tilapia BELL'S Bolsa,"Carnes, Aves y Pescados",20.50,2024-10-12,2025-02-20,1,kg,0
-CAR005,Pechuga Especial de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",15.90,2024-10-12,2024-11-05,1,un,0
-CAR006,Bisteck de Res EL BUEN CORTE,"Carnes, Aves y Pescados",38.90,2024-10-12,2025-04-10,1,un,0
-CAR007,Guiso Tierno de Res EL BUEN CORTE,"Carnes, Aves y Pescados",30.90,2024-10-12,2025-05-01,1,un,0
-CAR008,Carne Molida Light de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",31.90,2024-10-12,2025-03-15,1,un,0
-CAR009,Pierna con Encuentro de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",13.50,2024-10-12,2025-01-30,1,un,0
-CAR010,Filete Pechuga Corte Mariposa Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",25.40,2024-10-12,2025-02-25,1,un,0
-CAR011,Hígado de pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",8.90,2024-10-12,2024-11-10,1,un,0
-CAR012,Muslo de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",16.49,2024-10-12,2025-01-20,1,un,0
-CAR013,Pechuga Entera de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",14.90,2024-10-12,2025-03-05,1,un,0
-CAR014,Chuleta Punta de Lomo de Cerdo EL BUEN CORTE,"Carnes, Aves y Pescados",14.90,2024-10-12,2024-11-15,1,un,0
-CAR015,Filete de Trucha BELL'S Congelado con Piel Bolsa,"Carnes, Aves y Pescados",28.90,2024-10-12,2025-02-28,500,g,0
-CAR016,Hígado de Res Importado,"Carnes, Aves y Pescados",13.90,2024-10-12,2025-04-25,1,un,0
+CAR001,Pollo Entero Fresco con Menudencia,"Carnes, Aves y Pescados",8.70,2024-10-12,2024-10-25,12,un,0
+CAR002,Carne Molida de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",23.80,2024-10-12,2024-10-28,15,un,0
+CAR003,Filete de Pechuga Importado SADIA Bolsa,"Carnes, Aves y Pescados",16.90,2024-10-12,2024-10-27,14,kg,0
+CAR004,Filete de Tilapia BELL'S Bolsa,"Carnes, Aves y Pescados",20.50,2024-10-12,2024-10-26,13,kg,0
+CAR005,Pechuga Especial de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",15.90,2024-10-12,2024-10-29,17,un,0
+CAR006,Bisteck de Res EL BUEN CORTE,"Carnes, Aves y Pescados",38.90,2024-10-12,2024-11-01,18,un,0
+CAR007,Guiso Tierno de Res EL BUEN CORTE,"Carnes, Aves y Pescados",30.90,2024-10-12,2025-01-15,14,un,0
+CAR008,Carne Molida Light de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",31.90,2024-10-12,2025-02-10,13,un,0
+CAR009,Pierna con Encuentro de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",13.50,2024-10-12,2025-03-05,11,un,0
+CAR010,Filete Pechuga Corte Mariposa Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",25.40,2024-10-12,2025-03-10,15,un,0
+CAR011,Hígado de pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",8.90,2024-10-12,2025-04-01,19,un,0
+CAR012,Muslo de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",16.49,2024-10-12,2025-04-05,17,un,0
+CAR013,Pechuga Entera de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",14.90,2024-10-12,2025-04-20,16,un,0
+CAR014,Chuleta Punta de Lomo de Cerdo EL BUEN CORTE,"Carnes, Aves y Pescados",14.90,2024-10-12,2025-05-01,14,un,0
+CAR015,Filete de Trucha BELL'S Congelado con Piel Bolsa,"Carnes, Aves y Pescados",28.90,2024-10-12,2025-06-10,18,g,0
+CAR016,Hígado de Res Importado,"Carnes, Aves y Pescados",13.90,2024-10-12,2025-07-05,12,un,0
