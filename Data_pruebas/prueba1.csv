@@ -1,76 +1,96 @@
 code,name,category,price,entry_date,expiry_date,stock,unit,shelf
-ABA001,Aceite de Soya SAO Botella,Abarrotes,6.50,2024-10-12,2025-01-12,900,ml,0
-ABA002,Fideo Spaghetti DON VITTORIO Bolsa,Abarrotes,5.49,2024-10-12,2025-01-15,950,g,0
-ABA003,Azúcar Rubia BELL'S Bolsa,Abarrotes,20.80,2024-10-12,2025-01-12,5000,kg,0
-ABA004,Galletas de Soda SAN JORGE Paquete,Abarrotes,4.40,2024-10-12,2025-01-12,7,un,0
-ABA005,Mayonesa ALACENA Doypack,Abarrotes,19.60,2024-10-12,2025-01-15,850,g,0
-ABA006,Galletas Saladas FIELD Soda Paquete,Abarrotes,3.70,2024-10-12,2025-01-12,6,un,0
-ABA007,Aceite Vegetal PRIMOR Premium Botella,Abarrotes,9.49,2024-10-12,2025-01-15,900,ml,0
-ABA008,Lenteja Bebé BELL'S Bolsa,Abarrotes,5.20,2024-10-12,2025-02-12,500,g,0
-ABA009,Azúcar Rubia BELL'S Bolsa,Abarrotes,8.60,2024-10-12,2025-01-12,2000,kg,0
-ABA010,Arroz Extra Añejo FARAON Naranja Bolsa,Abarrotes,26.49,2024-10-12,2025-01-20,5000,kg,0
-ABA011,Galletas FIELD Vainilla Paquete,Abarrotes,4.70,2024-10-12,2025-02-12,6,un,0
-ABA012,Arroz Extra COSTEÑO Bolsa,Abarrotes,23.90,2024-10-12,2025-01-30,5000,kg,0
-ABA013,Aceite Vegetal BELL'S Botella,Abarrotes,5.20,2024-10-12,2025-01-20,900,ml,0
-ABA014,Trozos de Atún BELL'S en Aceite Lata,Abarrotes,3.90,2024-10-12,2025-02-12,1,un,0
-ABA015,Pack Aceite Vegetal PRIMOR Premium Botella 900ml + Mayonesa ALACENA Doypack,Abarrotes,20.49,2024-10-12,2025-02-12,475,g,0
-ABA016,Galletas SAYON Margarita Bolsa,Abarrotes,4.80,2024-10-12,2025-02-10,43,g,0
-ABA017,Galletas Saladas RITZ sabor Original Paquete,Abarrotes,3.80,2024-10-12,2025-01-30,6,un,0
-ABA018,Filete de Atún en Aceite Vegetal FLORIDA Lata,Abarrotes,6.00,2024-10-12,2025-02-15,140,g,0
-ABA019,Fideos DON VITTORIO Tornillo Bolsa,Abarrotes,2.00,2024-10-12,2025-01-12,225,g,0
-BEB001,Agua Mineral SAN MATEO Sin Gas Bidón,Bebidas,8.50,2024-10-12,2025-02-10,7,l,0
-BEB002,Pack Gaseosa COCA COLA sin Azúcar Botella 1.5L + Gaseosa INCA KOLA sin Azúcar Botella,Bebidas,11.90,2024-10-12,2025-02-20,1.5,l,0
-BEB003,Agua de Mesa SAN CARLOS Sin Gas Caja,Bebidas,19.20,2024-10-12,2025-03-01,20,l,0
-BEB004,Agua de Mesa SAN CARLOS sin Gas Botella 500ml Paquete,Bebidas,12.90,2024-10-12,2025-02-28,20,un,0
-BEB005,Gaseosa INCA KOLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2025-02-12,6,un,0
-BEB006,Gaseosa COCA COLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2025-02-15,6,un,0
-BEB007,Gaseosa INCA KOLA + COCA COLA + FANTA Botella 3L Paquete,Bebidas,24.90,2024-10-12,2025-02-20,3,un,0
-BEB008,Gaseosa INCA KOLA Sin Azúcar Botella 1.5L Paquete,Bebidas,11.90,2024-10-12,2025-02-10,2,un,0
-BEB009,Agua Mineral SAN MATEO sin Gas Botella,Bebidas,3.00,2024-10-12,2025-01-30,2.5,l,0
-BEB010,Gaseosa COCA COLA Sabor Original Botella 3L Two Pack,Bebidas,19.90,2024-10-12,2025-02-12,1,un,0
-BEB011,Gaseosa COCA COLA Sin Azúcar 2Pack Botella,Bebidas,11.90,2024-10-12,2025-02-20,1.5,l,0
-BEB012,Gaseosa COCA COLA + INCA KOLA 2Pack Botella,Bebidas,19.90,2024-10-12,2025-02-28,3,l,0
-BEB013,Agua de Mesa SAN LUIS Sin Gas Bidón,Bebidas,7.50,2024-10-12,2025-02-15,7,l,0
-BEB014,Agua SAN LUIS sin Gas Caja,Bebidas,24.50,2024-10-12,2025-03-05,20,l,0
-BEB015,Agua Mineral SAN MATEO sin Gas Botella 600ml Paquete,Bebidas,9.00,2024-10-12,2025-02-20,6,un,0
-BEB016,Agua sin Gas CIELO Caja,Bebidas,23.90,2024-10-12,2025-02-28,20,l,0
-BEB017,Néctar FRUGOS DEL VALLE Sabor a Durazno Caja 235ml Six Pack,Bebidas,7.90,2024-10-12,2025-02-12,1,un,0
-BEB018,Agua sin Gas CIELO Bidón,Bebidas,6.80,2024-10-12,2025-02-12,7,l,0
-BEB019,Agua con Gas SAN LUIS Sabor a Manzana Botella 625ml Paquete,Bebidas,11.00,2024-10-12,2025-02-10,6,un,0
-BEB020,Gaseosa COCA COLA Sabor Original Botella 1L Two Pack,Bebidas,8.30,2024-10-12,2025-02-12,1,un,0
-CAR001,Pollo Entero Fresco con Menudencia,"Carnes, Aves y Pescados",8.70,2024-10-12,2024-10-22,1,un,0
-CAR002,Carne Molida de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",23.80,2024-10-12,2024-10-18,1,un,0
-CAR003,Filete de Pechuga Importado SADIA Bolsa,"Carnes, Aves y Pescados",16.90,2024-10-12,2024-11-12,1,kg,0
-CAR004,Filete de Tilapia BELL'S Bolsa,"Carnes, Aves y Pescados",20.50,2024-10-12,2024-11-12,1,kg,0
-CAR005,Pechuga Especial de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",15.90,2024-10-12,2024-11-01,1,un,0
-CAR006,Bisteck de Res EL BUEN CORTE,"Carnes, Aves y Pescados",38.90,2024-10-12,2024-11-10,1,un,0
-CAR007,Guiso Tierno de Res EL BUEN CORTE,"Carnes, Aves y Pescados",30.90,2024-10-12,2024-10-25,1,un,0
-CAR008,Carne Molida Light de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",31.90,2024-10-12,2024-10-18,1,un,0
-CAR009,Pierna con Encuentro de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",13.50,2024-10-12,2024-10-22,1,un,0
-CAR010,Filete Pechuga Corte Mariposa Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",25.40,2024-10-12,2024-10-28,1,un,0
-CAR011,Hígado de pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",8.90,2024-10-12,2024-10-20,1,un,0
-CAR012,Muslo de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",16.49,2024-10-12,2024-11-05,1,un,0
-CAR013,Pechuga Entera de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",14.90,2024-10-12,2024-11-10,1,un,0
-CAR014,Chuleta Punta de Lomo de Cerdo EL BUEN CORTE,"Carnes, Aves y Pescados",14.90,2024-10-12,2024-11-12,1,un,0
-CAR015,Filete de Trucha BELL'S Congelado con Piel Bolsa,"Carnes, Aves y Pescados",28.90,2024-10-12,2024-12-12,500,g,0
-CAR016,Hígado de Res Importado,"Carnes, Aves y Pescados",13.90,2024-10-12,2024-11-01,1,un,0
-CON001,Pan Ciabatta Refrigerado Bolsa,Congelados,3.90,2024-10-12,2024-11-12,6,un,0
-CON002,Nuggets de Pechuga de Pollo REDONDOS Caja,Congelados,13.50,2024-10-12,2024-11-10,36,un,0
-CON003,Pan Francés Precocido Congelado BELL'S Bolsa,Congelados,2.90,2024-10-12,2024-12-12,5,un,0
-CON004,Nuggets de Pollo San Fernando Paquete,Congelados,4.40,2024-10-12,2024-12-12,10,un,0
-CON005,Nuggets Pechuga de Pollo San Fernando Caja,Congelados,14.20,2024-10-12,2024-12-10,24,un,0
-CON006,Nuggets de Pollo Precocido AVINKA Bolsa,Congelados,10.50,2024-10-12,2024-12-12,15,un,0
-CON007,Pan Francés Refrigerado Bolsa,Congelados,3.90,2024-10-12,2024-11-12,6,un,0
-CON008,Dedos de Pollo AVINKA 270g Bolsa 12un x,Congelados,10.90,2024-10-12,2024-12-12,270,g,0
-CON009,Nuggets de Pollo con Quinua AVINKA Bolsa,Congelados,9.49,2024-10-12,2024-12-12,15,un,0
-CON010,Nuggets de Pollo con Brócoli AVINKA Bolsa,Congelados,9.50,2024-10-12,2024-12-12,15,un,0
-CON011,Chicharrón de Pollo AVINKA Bolsa,Congelados,15.50,2024-10-12,2024-12-12,350,g,0
-CON012,Hamburguesa de Carne La Casera SAN FERNANDO Bolsa,Congelados,12.90,2024-10-12,2024-12-12,910,g,0
-CON013,Hamburguesa de Carne La Super SAN FERNANDO Bolsa,Congelados,12.70,2024-10-12,2024-12-12,850,g,0
-CON014,Pan Ciabatta Precocido Congelado BELL'S Bolsa,Congelados,2.90,2024-10-12,2024-11-12,5,un,0
-CON015,Tiras de Pechuga de Pollo Empanizados REDONDOS Bolsa,Congelados,12.90,2024-10-12,2024-12-12,300,g,0
-CON016,Hamburguesa OTTO KUNZ Premium de Res Bolsa,Congelados,22.02,2024-10-12,2024-12-12,8,un,0
-CON017,Hamburguesa de pollo REDONDOS Bolsa,Congelados,10.90,2024-10-12,2024-12-12,14,un,0
-CON018,Pop Corn Chicken AVINKA Bolsa,Congelados,12.70,2024-10-12,2024-12-12,350,g,0
-CON019,Milanesa de Pollo AVINKA Bolsa,Congelados,25.70,2024-10-12,2024-12-12,4,un,0
-CON020,Hamburguesa La Casera de Pollo SAN FERNANDO Bolsa,Congelados,12.69,2024-10-12,2024-12-12,910,g,0
+ABA001,Aceite de Soya SAO Botella,Abarrotes,6.50,2024-10-12,2024-10-18,12,ml,0
+ABA002,Fideo Spaghetti DON VITTORIO Bolsa,Abarrotes,5.49,2024-10-12,2024-10-20,14,g,0
+ABA003,Azúcar Rubia BELL'S Bolsa,Abarrotes,20.80,2024-10-12,2024-10-22,18,kg,0
+ABA004,Galletas de Soda SAN JORGE Paquete,Abarrotes,4.40,2024-10-12,2024-10-24,13,un,0
+ABA005,Mayonesa ALACENA Doypack,Abarrotes,19.60,2024-10-12,2024-10-25,16,g,0
+ABA006,Galletas Saladas FIELD Soda Paquete,Abarrotes,3.70,2024-10-12,2024-10-28,11,un,0
+ABA007,Aceite Vegetal PRIMOR Premium Botella,Abarrotes,9.49,2024-10-12,2024-12-01,19,ml,0
+ABA008,Lenteja Bebé BELL'S Bolsa,Abarrotes,5.20,2024-10-12,2024-12-02,15,g,0
+ABA009,Azúcar Rubia BELL'S Bolsa,Abarrotes,8.60,2024-10-12,2024-12-05,14,kg,0
+ABA010,Arroz Extra Añejo FARAON Naranja Bolsa,Abarrotes,26.49,2024-10-12,2024-12-06,12,kg,0
+ABA011,Galletas FIELD Vainilla Paquete,Abarrotes,4.70,2024-10-12,2024-12-10,17,un,0
+ABA012,Arroz Extra COSTEÑO Bolsa,Abarrotes,23.90,2024-10-12,2024-12-12,18,kg,0
+ABA013,Aceite Vegetal BELL'S Botella,Abarrotes,5.20,2024-10-12,2025-01-15,11,ml,0
+ABA014,Trozos de Atún BELL'S en Aceite Lata,Abarrotes,3.90,2024-10-12,2025-01-20,14,un,0
+ABA015,Pack Aceite Vegetal PRIMOR Premium Botella 900ml + Mayonesa ALACENA Doypack,Abarrotes,20.49,2024-10-12,2025-02-01,17,g,0
+ABA016,Galletas SAYON Margarita Bolsa,Abarrotes,4.80,2024-10-12,2025-02-10,12,g,0
+ABA017,Galletas Saladas RITZ sabor Original Paquete,Abarrotes,3.80,2024-10-12,2025-02-15,18,un,0
+ABA018,Filete de Atún en Aceite Vegetal FLORIDA Lata,Abarrotes,6.00,2024-10-12,2025-03-10,19,g,0
+ABA019,Fideos DON VITTORIO Tornillo Bolsa,Abarrotes,2.00,2024-10-12,2025-03-15,14,g,0
+BEB001,Agua Mineral SAN MATEO Sin Gas Bidón,Bebidas,8.50,2024-10-12,2024-10-20,13,l,0
+BEB002,Pack Gaseosa COCA COLA sin Azúcar Botella 1.5L + Gaseosa INCA KOLA sin Azúcar Botella,Bebidas,11.90,2024-10-12,2024-10-22,12,l,0
+BEB003,Agua de Mesa SAN CARLOS Sin Gas Caja,Bebidas,19.20,2024-10-12,2024-10-18,11,l,0
+BEB004,Agua de Mesa SAN CARLOS sin Gas Botella 500ml Paquete,Bebidas,12.90,2024-10-12,2024-10-25,15,un,0
+BEB005,Gaseosa INCA KOLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2024-10-21,14,un,0
+BEB006,Gaseosa COCA COLA Sin Azúcar Botella 300ml Paquete,Bebidas,10.00,2024-10-12,2024-10-19,18,un,0
+BEB007,Gaseosa INCA KOLA + COCA COLA + FANTA Botella 3L Paquete,Bebidas,24.90,2024-10-12,2024-12-30,17,un,0
+BEB008,Gaseosa INCA KOLA Sin Azúcar Botella 1.5L Paquete,Bebidas,11.90,2024-10-12,2024-11-30,10,un,0
+BEB009,Agua Mineral SAN MATEO sin Gas Botella,Bebidas,3.00,2024-10-12,2025-01-25,14,l,0
+BEB010,Gaseosa COCA COLA Sabor Original Botella 3L Two Pack,Bebidas,19.90,2024-10-12,2025-01-15,16,un,0
+BEB011,Gaseosa COCA COLA Sin Azúcar 2Pack Botella,Bebidas,11.90,2024-10-12,2025-02-20,18,l,0
+BEB012,Gaseosa COCA COLA + INCA KOLA 2Pack Botella,Bebidas,19.90,2024-10-12,2025-02-15,15,l,0
+BEB013,Agua de Mesa SAN LUIS Sin Gas Bidón,Bebidas,7.50,2024-10-12,2025-03-10,11,l,0
+BEB014,Agua SAN LUIS sin Gas Caja,Bebidas,24.50,2024-10-12,2025-04-05,16,l,0
+BEB015,Agua Mineral SAN MATEO sin Gas Botella 600ml Paquete,Bebidas,9.00,2024-10-12,2025-04-30,13,un,0
+BEB016,Agua sin Gas CIELO Caja,Bebidas,23.90,2024-10-12,2025-05-10,19,l,0
+BEB017,Néctar FRUGOS DEL VALLE Sabor a Durazno Caja 235ml Six Pack,Bebidas,7.90,2024-10-12,2025-03-15,12,un,0
+BEB018,Agua sin Gas CIELO Bidón,Bebidas,6.80,2024-10-12,2025-05-05,18,l,0
+BEB019,Agua con Gas SAN LUIS Sabor a Manzana Botella 625ml Paquete,Bebidas,11.00,2024-10-12,2025-04-20,14,un,0
+BEB020,Gaseosa COCA COLA Sabor Original Botella 1L Two Pack,Bebidas,8.30,2024-10-12,2025-04-30,15,un,0
+CAR001,Pollo Entero Fresco con Menudencia,"Carnes, Aves y Pescados",8.70,2024-10-12,2024-10-25,12,un,0
+CAR002,Carne Molida de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",23.80,2024-10-12,2024-10-28,15,un,0
+CAR003,Filete de Pechuga Importado SADIA Bolsa,"Carnes, Aves y Pescados",16.90,2024-10-12,2024-10-27,14,kg,0
+CAR004,Filete de Tilapia BELL'S Bolsa,"Carnes, Aves y Pescados",20.50,2024-10-12,2024-10-26,13,kg,0
+CAR005,Pechuga Especial de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",15.90,2024-10-12,2024-10-29,17,un,0
+CAR006,Bisteck de Res EL BUEN CORTE,"Carnes, Aves y Pescados",38.90,2024-10-12,2024-11-01,18,un,0
+CAR007,Guiso Tierno de Res EL BUEN CORTE,"Carnes, Aves y Pescados",30.90,2024-10-12,2025-01-15,14,un,0
+CAR008,Carne Molida Light de Res Empacada al vacío EL BUEN CORTE,"Carnes, Aves y Pescados",31.90,2024-10-12,2025-02-10,13,un,0
+CAR009,Pierna con Encuentro de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",13.50,2024-10-12,2025-03-05,11,un,0
+CAR010,Filete Pechuga Corte Mariposa Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",25.40,2024-10-12,2025-03-10,15,un,0
+CAR011,Hígado de pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",8.90,2024-10-12,2025-04-01,19,un,0
+CAR012,Muslo de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",16.49,2024-10-12,2025-04-05,17,un,0
+CAR013,Pechuga Entera de Pollo Empacada al vacío SAN FERNANDO,"Carnes, Aves y Pescados",14.90,2024-10-12,2025-04-20,16,un,0
+CAR014,Chuleta Punta de Lomo de Cerdo EL BUEN CORTE,"Carnes, Aves y Pescados",14.90,2024-10-12,2025-05-01,14,un,0
+CAR015,Filete de Trucha BELL'S Congelado con Piel Bolsa,"Carnes, Aves y Pescados",28.90,2024-10-12,2025-06-10,18,g,0
+CAR016,Hígado de Res Importado,"Carnes, Aves y Pescados",13.90,2024-10-12,2025-07-05,12,un,0
+CON001,Pan Ciabatta Refrigerado Bolsa,Congelados,3.90,2024-10-12,2024-10-22,12,un,0
+CON002,Nuggets de Pechuga de Pollo REDONDOS Caja,Congelados,13.50,2024-10-12,2024-10-25,16,un,0
+CON003,Pan Francés Precocido Congelado BELL'S Bolsa,Congelados,2.90,2024-10-12,2024-10-27,14,un,0
+CON004,Nuggets de Pollo San Fernando Paquete,Congelados,4.40,2024-10-12,2024-10-28,18,un,0
+CON005,Nuggets Pechuga de Pollo San Fernando Caja,Congelados,14.20,2024-10-12,2024-11-01,17,un,0
+CON006,Nuggets de Pollo Precocido AVINKA Bolsa,Congelados,10.50,2024-10-12,2024-10-29,12,un,0
+CON007,Pan Francés Refrigerado Bolsa,Congelados,3.90,2024-10-12,2024-11-01,11,un,0
+CON008,Dedos de Pollo AVINKA 270g Bolsa 12un x,Congelados,10.90,2024-10-12,2025-03-15,19,g,0
+CON009,Nuggets de Pollo con Quinua AVINKA Bolsa,Congelados,9.49,2024-10-12,2025-04-01,14,un,0
+CON010,Nuggets de Pollo con Brócoli AVINKA Bolsa,Congelados,9.50,2024-10-12,2025-03-25,18,un,0
+CON011,Chicharrón de Pollo AVINKA Bolsa,Congelados,15.50,2024-10-12,2025-04-15,13,g,0
+CON012,Hamburguesa de Carne La Casera SAN FERNANDO Bolsa,Congelados,12.90,2024-10-12,2025-04-05,20,g,0
+CON013,Hamburguesa de Carne La Super SAN FERNANDO Bolsa,Congelados,12.70,2024-10-12,2025-03-10,17,g,0
+CON014,Pan Ciabatta Precocido Congelado BELL'S Bolsa,Congelados,2.90,2024-10-12,2024-10-28,16,un,0
+CON015,Tiras de Pechuga de Pollo Empanizados REDONDOS Bolsa,Congelados,12.90,2024-10-12,2025-04-20,14,g,0
+CON016,Hamburguesa OTTO KUNZ Premium de Res Bolsa,Congelados,22.02,2024-10-12,2025-05-10,12,un,0
+CON017,Hamburguesa de pollo REDONDOS Bolsa,Congelados,10.90,2024-10-12,2024-10-30,15,un,0
+CON018,Pop Corn Chicken AVINKA Bolsa,Congelados,12.70,2024-10-12,2025-04-01,14,g,0
+CON019,Milanesa de Pollo AVINKA Bolsa,Congelados,25.70,2024-10-12,2025-03-05,11,un,0
+CON020,Hamburguesa La Casera de Pollo SAN FERNANDO Bolsa,Congelados,12.69,2024-10-12,2025-04-25,12,g,0
+BBE001,Toallitas Húmedas HUGGIES Limpieza Efectiva Paquete,Cuidado del Bebé,22.90,2024-10-12,2024-10-25,14,un,0
+BBE002,Toallitas Húmedas BABYSEC Paquete,Cuidado del Bebé,13.90,2024-10-12,2024-10-28,16,un,0
+BBE003,Toallitas Humedas HUGGIES One & Done 3 Paquetes de,Cuidado del Bebé,34.90,2024-10-12,2024-10-27,12,un,0
+BBE004,Toallitas Húmedas Premium BALANZÉ Doypack,Cuidado del Bebé,11.90,2024-10-12,2024-10-29,18,un,0
+BBE005,Toallitas Húmedas BALANZÉ BABY Clásica Paquete,Cuidado del Bebé,4.90,2024-10-12,2024-10-30,15,un,0
+BBE006,Pañal BABYSEC Super Premium Talla XXG Paquete,Cuidado del Bebé,55.90,2024-10-12,2024-11-01,19,un,0
+BBE007,Fórmula Láctea NAN 3 Crecimiento Lata 390g Paquete,Cuidado del Bebé,40.40,2024-10-12,2025-03-05,18,un,0
+BBE008,Toallitas Húmedas BABYSEC Super Premium Paquete,Cuidado del Bebé,29.90,2024-10-12,2025-04-01,15,un,0
+BBE009,Toallitas Húmedas BALANZE Baby Clásica Paquete,Cuidado del Bebé,2.90,2024-10-12,2025-04-10,16,un,0
+BBE010,Toallitas Húmedas para Bebé HUGGIES One & Done Paquete,Cuidado del Bebé,29.90,2024-10-12,2025-03-25,17,un,0
+BBE011,Pañal HUGGIES Dermacare Talla M Paquete,Cuidado del Bebé,52.90,2024-10-12,2025-04-15,11,un,0
+BBE012,Toallitas Húmedas BABYSEC Premium Paquete,Cuidado del Bebé,23.00,2024-10-12,2025-03-30,17,un,0
+BBE013,Pañales para Bebé HUGGIES Active Sec XXXG Paquete,Cuidado del Bebé,58.90,2024-10-12,2025-05-05,18,un,0
+BBE014,Fórmula Láctea NAN 2 Bebés Lata 390g Paquete,Cuidado del Bebé,47.20,2024-10-12,2025-06-10,19,un,0
+BBE015,Fórmula Infantil SIMILAC 3 HMO Caja,Cuidado del Bebé,194.30,2024-10-12,2025-06-25,15,g,0
+BBE016,Pañales para Bebé HUGGIES Natural Care XXXG Paquete,Cuidado del Bebé,61.90,2024-10-12,2025-06-30,18,un,0
+BBE017,Toallitas Húmedas para Bebé HUGGIES Manitos y Caritas Bolsa,Cuidado del Bebé,7.50,2024-10-12,2025-07-05,14,un,0
+BBE018,Pañales para Bebé HUGGIES Natural Care Talla XXG Paquete,Cuidado del Bebé,61.90,2024-10-12,2025-07-10,19,un,0
+BBE019,Fórmula Infantil SIMILAC Total Comfort Caja,Cuidado del Bebé,275.50,2024-10-12,2025-07-20,12,kg,0
+BBE020,Toallitas Húmedas para Bebé PEQUEÑÍN Aloe Natural Paquete,Cuidado del Bebé,21.90,2024-10-12,2025-07-25,18,un,0

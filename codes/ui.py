@@ -125,7 +125,7 @@ class InventoryApp:
 
     # Cargar datos desde CSV
     def load_csv(self):
-        file_path = 'Data/abarrotes.csv'  # Ajusta esto según tu archivo CSV
+        file_path = 'Data_pruebas/prueba3.csv'  # Ajusta esto según tu archivo CSV
         self.inventory.load_from_csv(file_path)
         self.display_products()
 
@@ -272,7 +272,7 @@ class InventoryApp:
     def report_expiring_soon(self):
         search_algorithm = self.search_algorithm_var.get()
 
-        if search_algorithm == "binary_search":
+        if search_algorithm == "binary_search_relocation":
             sorted_products = sorted(self.inventory.products, key=lambda p: p.expiry_date)
             soon_to_expire, exec_time, memory_peak = binary_search_relocation(sorted_products, days_left=30, key=lambda p: p.expiry_date)
         else:
@@ -288,19 +288,13 @@ class InventoryApp:
     def report_low_stock(self):
         search_algorithm = self.search_algorithm_var.get()
 
-        if search_algorithm == "binary_search":
+        if search_algorithm == "binary_search_relocation":
+        # Usar búsqueda binaria para productos con bajo stock
             sorted_products = sorted(self.inventory.products, key=lambda p: p.stock)
             low_stock, exec_time, memory_peak = binary_search_relocation(sorted_products, days_left=12, key=lambda p: p.stock)
         else:
-            tracemalloc.start()  # Iniciar seguimiento de memoria
-            start_time = time.time()  # Iniciar el temporizador
-            low_stock = [product for product in self.inventory.products if product.stock < 12]
-            end_time = time.time()  # Finalizar el temporizador
-            memory_usage = tracemalloc.get_traced_memory()  # Obtener el uso de memoria
-            tracemalloc.stop()  # Detener el seguimiento de memoria
-
-            exec_time = end_time - start_time
-            memory_peak = memory_usage[1]
+        # Usar búsqueda por hash para productos con bajo stock
+            low_stock, exec_time, memory_peak = hash_search_relocation(self.inventory.products, days_left=12, key=lambda p: p.stock)
 
         if low_stock:
             self.show_subwindow_report(low_stock, "Productos Faltantes")
@@ -308,6 +302,7 @@ class InventoryApp:
             messagebox.showinfo("Información", "No hay productos faltantes")
 
         self.metrics_label.config(text=f"Tiempo de ejecución: {exec_time:.6f} segundos | Pico de memoria: {memory_peak / 1024:.2f} KB")
+
 
     def show_subwindow_report(self, products, title):
         report_window = tk.Toplevel(self.master)

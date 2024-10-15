@@ -17,16 +17,16 @@ class Inventario:
             'Bebidas': 'BEB',
             'Carnes, Aves y Pescados': 'CAR',
             'Congelados': 'CON',
-            'Cuidado del bebe': 'BBE',
-            'Cuidado personal': 'CUP',
-            'Frutas y verduras': 'FRU',
-            'Jugueteria': 'JUG',
-            'Lacteos y huevos': 'LAH',
-            'Libreria': 'LIB',
+            'Cuidado del Bebé': 'BBE',
+            'Cuidado Personal': 'CUP',
+            'Frutas y Verduras': 'FRU',
+            'Juguetería': 'JUG',
+            'Lácteos y Huevos': 'LAH',
+            'Librería': 'LIB',
             'Limpieza': 'LIM',
             'Mascotas': 'MAS',
-            'Panaderia': 'PPC',
-            'Quesos y fiambres': 'QF'
+            'Panadería, Pastelería y Comidas': 'PPC',
+            'Quesos y Fiambres': 'QF'
         }
 
         # Diccionario para definir el rango de estantes por código de categoría
@@ -89,9 +89,9 @@ class Inventario:
                 shelf_range = self.shelf_ranges[category_code]
 
                 # Asignar estante basado en proximidad de vencimiento
-                if expiry_date_diff <= 30:
+                if expiry_date_diff <= 20:
                     self.assign_to_shelf(product, shelf_range[0])  # Estante más cercano
-                elif 30 < expiry_date_diff <= 80:
+                elif 20 < expiry_date_diff <= 70:
                     self.assign_to_shelf(product, shelf_range[1])  # Estante intermedio
                 else:
                     self.assign_to_shelf(product, shelf_range[2] if len(shelf_range) > 2 else shelf_range[1])
